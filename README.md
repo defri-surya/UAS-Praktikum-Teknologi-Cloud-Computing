@@ -1,4 +1,4 @@
-# UAS-Praktiku-Teknologi-Cloud-Computing
+# UAS-Praktikum-Teknologi-Cloud-Computing
 
 Nama : Defri Surya Wirawan
 
